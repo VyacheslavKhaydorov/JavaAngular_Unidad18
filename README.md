@@ -25,7 +25,6 @@ https://github.com/VyacheslavKhaydorov/JavaAngular_Unidad18
 ```
 Eclipse IDE for Java Developers | Version: 2020-12 (4.18.0)
 MySQL Server 8.0
-MySQL Workbench 8.0
 ```
-###  4. Screenshot imagen que indique cómo debe verse el proyecto.
+###  4. Screenshot imagen que indica cómo debe verse el proyecto.
 ![banerGit](https://github.com/VyacheslavKhaydorov/JavaAngular_Unidad18/blob/main/Imagen_Java-MySQL.jpg)
